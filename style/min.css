@@ -96,3 +96,43 @@ background-size: contain;
     border-bottom: 1px solid black;
     margin: 8px 8px;
 }
+.contra-box{
+    display: flex;
+    margin: 40px 0px;
+    background-color: #FFF8F3;
+}
+.froms{
+    display: block;
+}
+input{
+    display: block;
+    width: 28rem;
+    height: 3rem;
+    margin: 21px 15px;
+}
+textarea{
+    margin-left: 20px;
+    color: rgb(8, 6, 5);
+}
+input::placeholder {
+    font-size: 25px;
+    color: rgb(170, 175, 175);
+}
+input{
+    font-size: 25px;
+    color: rgb(8, 6, 5);
+
+}
+.fist{
+    padding: 5px 9px;
+}
+textarea::placeholder{
+    color: aqua;
+}
+.socil{
+    display: flex;
+    justify-content:start;
+}
+.socile{
+    margin: 10px 10px;
+}
